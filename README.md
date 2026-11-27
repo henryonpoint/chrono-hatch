@@ -6,11 +6,17 @@ A 3D top-down time-travel egg-hatching game made by Henry and Max.
 
 Travel anywhere in time, from space before Earth to an alien planet in the far future. Collect eggs, hatch them in the cone-shaped time machine's incubator, and build a team of 72 pets. Explore dungeons and houses, talk to people from every era, shop in the olden days town, ride horses, drive vehicles, find secrets and fill your collection.
 
+## Mini games
+
+Every era has a mini game with a host to talk to: Moon Hop (space), Egg Catch (dino jungle), Ice Fishing (Ice Age), Catch the Temple Cats (Egypt), Archery Contest (medieval), Gold Panning (olden days), Feed the Ducks (present), Laser Dodge (future) and Crystal Echo (alien planet). You earn 1 crystal per point.
+
+The sky follows real daylight where you are playing, so it is night in the game when it is night outside.
+
 ## Controls
 
 - **Move:** WASD or arrow keys (drag on phones)
 - **Jump:** Shift
-- **Talk / enter / drive:** E
+- **Talk / enter / drive:** E (also the action button in mini games)
 - **Pets:** P
 - **Items:** I
 - **Shoot (with the dino rifle):** F
